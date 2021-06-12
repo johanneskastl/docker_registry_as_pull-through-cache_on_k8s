@@ -1,6 +1,6 @@
-# docker_registry_as_pull-through-cache_on_k8s
+# docker registry as pull-through-cache on k8s
 
-Manifests for running the docker registry on k8s
+Manifests for running the docker registry on k8s as a pull-through cache
 
 (adapted from [this article](https://medium.com/swlh/deploy-your-private-docker-registry-as-a-pod-in-kubernetes-f6a489bf018))
 
