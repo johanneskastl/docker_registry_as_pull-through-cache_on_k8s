@@ -1,3 +1,5 @@
 
 # for now ignore the configmap that contains the credentials
 configmap.yml
+# for now ignore the ingress file that contains the actual hostname
+ingress.yml
