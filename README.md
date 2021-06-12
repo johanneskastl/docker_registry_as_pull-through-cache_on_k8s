@@ -6,6 +6,11 @@ Manifests for running the docker registry on k8s as a pull-through cache
 
 This setup works on my k3s cluster, which handles some things differently than other clusters might do (volumes, loadbalancers, ...). Adapt where necessary
 
+## Todo
+
+- [] TLS for the registry
+- [] Authentication for the registry
+
 ## Credentials
 
 Get yourself a docker hub account (if you do not have one already) and create a access token. You will need to to not hit the Docker rate limiting that easily.
