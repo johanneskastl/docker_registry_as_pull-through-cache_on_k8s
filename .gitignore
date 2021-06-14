@@ -1,0 +1,2 @@
+# for now ignore the ingress file that contains the actual hostname
+ingress.yml
