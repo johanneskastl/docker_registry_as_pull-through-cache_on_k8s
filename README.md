@@ -37,6 +37,7 @@ Copy the `ingress.yml.sample` file to `ingress.yml` and adjust the host line:
 ## Deploy the things
 
 Apply all yaml files in the following order:
+- `namespace.yml`
 - `secret.yml`
 - `persistentvolumeclaim.yml`
 - `deployment.yml`
